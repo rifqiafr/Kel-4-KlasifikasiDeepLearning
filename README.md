@@ -28,11 +28,11 @@ Proyek ini bertujuan untuk mengembangkan model **Deep Learning** menggunakan **C
 
 Berikut adalah ilustrasi arsitektur CNN:
 
-![Arsitektur CNN](https://miro.medium.com/v2/resize:fit:828/1*Uj5g1gkW0zX1pF1r8Y1Y2A.png)
+![image](https://github.com/user-attachments/assets/d0c99c57-5276-4006-8f5f-3a91252c6ada)
 
 *Gambar di atas menunjukkan struktur umum dari CNN, mulai dari lapisan input hingga lapisan output.*
 
-## Kelompok 1
+## Kelompok 4
 
 Proyek ini dikembangkan oleh Kelompok 1 yang terdiri dari anggota berikut:
 
