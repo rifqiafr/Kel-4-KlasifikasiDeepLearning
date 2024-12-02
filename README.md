@@ -2,18 +2,21 @@
 
 ## Kelompok 4
 
-Proyek ini dikembangkan oleh Kelompok 4 yang terdiri dari anggota berikut:
+Proyek ini dikembangkan oleh Kelompok 4 yang terdiri dari anggota-anggota berikut:
 
-- Nanditha Nabiilah Putri (G1A021001)
-- Gopi Mahendra (G1A021005)
-- Nazir Mahmudi Lubis (G1A021013)
-- Muhamad Rifqi Afriansyah (G1A021023)
-- Vilda Aprilia (G1A021033)
-- Erin Handayani Azzahra (G1A021049)
-- Syakira Az Zahra (G1A021057)
-- Muhamad Iqbal (G1A021073)
-- Farhani Ilham Hidayatullah (G1A021081)
-- Fajar Adhitia Suwandhi (G1A021086)
+| No  | Nama Anggota                         | NIM          |
+|-----|--------------------------------------|--------------|
+| 1   | Nanditha Nabiilah Putri             | G1A021001    |
+| 2   | Gopi Mahendra                       | G1A021005    |
+| 3   | Nazir Mahmudi Lubis                 | G1A021013    |
+| 4   | Muhamad Rifqi Afriansyah            | G1A021023    |
+| 5   | Vilda Aprilia                       | G1A021033    |
+| 6   | Erin Handayani Azzahra              | G1A021049    |
+| 7   | Syakira Az Zahra                    | G1A021057    |
+| 8   | Muhamad Iqbal                       | G1A021073    |
+| 9   | Farhani Ilham Hidayatullah          | G1A021081    |
+| 10  | Fajar Adhitia Suwandhi              | G1A021086    |
+
 
 ## Link PPT
 https://www.canva.com/design/DAGVaA9Ei5Y/UPxqkMwXFN_WFoisLr8rxA/edit?utm_content=DAGVaA9Ei5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
