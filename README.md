@@ -1,4 +1,4 @@
-# Deep Learning - Klasifikasi Sayuran menggunakan CNN
+# Deep Learning - Klasifikasi Menggunakan CNN
 
 ## Kelompok 4
 
