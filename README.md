@@ -1,5 +1,20 @@
 # Deep Learning - Klasifikasi Sayuran menggunakan CNN
 
+## Kelompok 4
+
+Proyek ini dikembangkan oleh Kelompok 4 yang terdiri dari anggota berikut:
+
+- Nanditha Nabiilah Putri (G1A021001)
+- Gopi Mahendra (G1A021005)
+- Nazir Mahmudi Lubis (G1A021013)
+- Muhamad Rifqi Afriansyah (G1A021023)
+- Vilda Aprilia (G1A021033)
+- Erin Handayani Azzahra (G1A021049)
+- Syakira Az Zahra (G1A021057)
+- Muhamad Iqbal (G1A021073)
+- Farhani Ilham Hidayatullah (G1A021081)
+- Fajar Adhitia Suwandhi (G1A021086)
+
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk mengembangkan model **Deep Learning** menggunakan **Convolutional Neural Network (CNN)** untuk mengklasifikasikan berbagai jenis sayuran. Dengan pendekatan pembelajaran mendalam, model ini mampu mengenali dan mengklasifikasikan gambar sayuran dengan akurasi tinggi.
@@ -32,20 +47,6 @@ Berikut adalah ilustrasi arsitektur CNN:
 
 *Gambar di atas menunjukkan struktur umum dari CNN, mulai dari lapisan input hingga lapisan output.*
 
-## Kelompok 4
-
-Proyek ini dikembangkan oleh Kelompok 1 yang terdiri dari anggota berikut:
-
-- Nanditha Nabiilah Putri (G1A021001)
-- Gopi Mahendra (G1A021005)
-- Nazir Mahmudi Lubis (G1A021013)
-- Muhamad Rifqi Afriansyah (G1A021023)
-- Vilda Aprilia (G1A021033)
-- Erin Handayani Azzahra (G1A021049)
-- Syakira Az Zahra (G1A021057)
-- Muhamad Iqbal (G1A021073)
-- Farhani Ilham Hidayatullah (G1A021081)
-- Fajar Adhitia Suwandhi (G1A021086)
 
 ## Struktur File
 
