@@ -15,6 +15,9 @@ Proyek ini dikembangkan oleh Kelompok 4 yang terdiri dari anggota berikut:
 - Farhani Ilham Hidayatullah (G1A021081)
 - Fajar Adhitia Suwandhi (G1A021086)
 
+## Link PPT
+https://www.canva.com/design/DAGVaA9Ei5Y/UPxqkMwXFN_WFoisLr8rxA/edit?utm_content=DAGVaA9Ei5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk mengembangkan model **Deep Learning** menggunakan **Convolutional Neural Network (CNN)** untuk mengklasifikasikan berbagai jenis sayuran. Dengan pendekatan pembelajaran mendalam, model ini mampu mengenali dan mengklasifikasikan gambar sayuran dengan akurasi tinggi.
